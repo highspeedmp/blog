@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "First!"
+date:   2018-04-03 16:09:25 -0400
+categories:
+---
+
+## Here it is. 
+
+ "It" being a new site built with the static site generator [Jekyll][jekyll-website]. 
+
+I've been on again, off again trying to learn to program.  I do have some prior experience from over a decade ago with entry level C++ and Visual Basic.  I also use command line tools on a daily basis and am pretty comfortable with Bash.  I've been using git more and more for work which is what kind of started medown this rabbit hole.   
+
+
+## Learning by doing
+
+My progress has been a little slow, and my interest fluctuates quite a bit from week to week. 
+
+* I started reading a book about git - I might go back to this as reference, but this did not work for me as an introduction. 
+
+* I started watching a lynda.com video about git (it is seriously over 6 hours long) - I don't feel like I'm absorbing as much as I should, probably not due to the format, but that I need to view the training in shorter chunks. 
+
+Then, I started using git and github to track my personal configuration files.  Since then my understanding has increased substantially.  I'm no expert, but I can at least start to understand whats going on. 
+
+### Progress
+I've also started [The Odin Project's Web Development 101 Course][odin-website].  I'm really liking it so far.  This program has an approach that is working for me.  Each topic is presented and then resources are provided that cater to many different learning styles. A new topic will be briefly introduced and then the reader can choose from technical documentation, or a youtube video, or a more guided articles on the topic (or all of them).
+
+### More things to fix
+* I haven't even posted this yet, but can tell that I don't like the way Jekyll is building the paths to pages based on date and categories "/2018/04/03/first.html" is bugging me.
+* I want a snippet to display on the home page for each post, or maybe just a short description.
+* Some visual customizations would be nice too. 
+
+[jekyll-website]: https://jekyllrb.com/
+[odin-website]: https://www.theodinproject.com/courses/web-development-101
