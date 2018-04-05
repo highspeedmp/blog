@@ -9,7 +9,7 @@ categories:
 
  "It" being a new site built with the static site generator [Jekyll][jekyll-website]. 
 
-I've been on again, off again trying to learn to program.  I do have some prior experience from over a decade ago with entry level C++ and Visual Basic.  I also use command line tools on a daily basis and am pretty comfortable with Bash.  I've been using git more and more for work which is what kind of started medown this rabbit hole.   
+I've been on again, off again trying to learn to program.  I do have some prior experience from over a decade ago with entry level C++ and Visual Basic.  I also use command line tools on a daily basis and am pretty comfortable with Bash.  I've been using git more and more for work which is what kind of started me down this rabbit hole.   
 
 
 ## Learning by doing
